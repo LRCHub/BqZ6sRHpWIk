@@ -1,0 +1,44 @@
+# The Turtles – Happy Together
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Imagine me and you, I do,
+I think about you day and night, it`s only right
+To think about the girl you love and hold her tight,
+So happy together
+If I should call you up, invest a dime,
+And say you belong to me and ease my mind,
+Imagine how the world would be so very fine,
+So happy together
+I can't see me lovin' nobody but you
+For all my life
+When you`re with me, baby, the skies will be blue
+For all my life
+Me and you and you and me,
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me,
+So happy together, so happy together
+I can't see me lovin' nobody but you
+For all my life
+When you`re with me, baby, the skies will be blue
+For all my life
+Me and you and you and me,
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me,
+So happy together, so happy together
+Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba
+Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba
+Me and you and you and me,
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me,
+So happy together, so happy together
+So happy together
+How is the weather
+So happy together
+We're happy together
+So happy together
+Happy together
+So happy together
+So happy together (ba-ba-ba-ba ba-ba-ba-ba)
+```
