@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Happy Together",
+  "base_artist": "The Turtles",
+  "createdAt": "2026-02-15T13:17:34.394401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "汎用型歌姫AI(Vo.コツキミヤ)",
+      "has_synced": false,
+      "path": "select/01_Happy_Together_汎用型歌姫AI(Vo.コツキミヤ).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Mel Tormé",
+      "has_synced": false,
+      "path": "select/02_Happy_Together_Mel_Tormé.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Mel Tormé",
+      "has_synced": true,
+      "path": "select/03_Happy_Together_Mel_Tormé.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Mellowdrone",
+      "has_synced": false,
+      "path": "select/04_Happy_Together_Mellowdrone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Turtles",
+      "has_synced": true,
+      "path": "select/05_Happy_Together_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turtles Happy Together",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/06_Turtles_Happy_Together_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/07_Happy_Together_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/08_Happy_Together_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "The Mothers Of Invention",
+      "has_synced": true,
+      "path": "select/09_Happy_Together_The_Mothers_Of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Together (Live At Fillmore East, June 1971)",
+      "artist": "Frank Zappa / The Mothers",
+      "has_synced": true,
+      "path": "select/10_Happy_Together_(Live_At_Fillmore_East,_June_1971)_Frank_Zappa___The_Mothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "The Jam",
+      "has_synced": true,
+      "path": "select/11_Happy_Together_The_Jam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "The Turtles",
+      "has_synced": true,
+      "path": "select/12_Happy_Together_The_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Together",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/13_Happy_Together_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Together (A Fantasy)",
+      "artist": "Captain & Tennille",
+      "has_synced": false,
+      "path": "select/14_Happy_Together_(A_Fantasy)_Captain_&_Tennille.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happy Together (A Fantasy) (Album Version)",
+      "artist": "Captain & Tennille",
+      "has_synced": false,
+      "path": "select/15_Happy_Together_(A_Fantasy)_(Album_Version)_Captain_&_Tennille.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happy Together (Remastered)",
+      "artist": "The Turtles",
+      "has_synced": true,
+      "path": "select/16_Happy_Together_(Remastered)_The_Turtles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Together",
+      "artist": "The Turtles",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Together_The_Turtles.txt"
+    }
+  ]
+}
